@@ -1,5 +1,7 @@
 # 💫 About Me:
-- 🔭 I’m currently working on TitaniumFix<br>- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACT<br>- 📫 How to reach me: @_liroujohn<br>
+- 🔭 I’m currently working on TitaniumFix<br>
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACT<br>
+- 📫 How to reach me: @_liroujohn<br>
 
 
 ## 🌐 Socials:
@@ -12,7 +14,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=liroujohn&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=liroujohn&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=liroujohn&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
