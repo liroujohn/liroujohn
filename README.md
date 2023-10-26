@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on TitaniumFix<br>
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACT<br>
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACT, C#<br>
 - 📫 How to reach me: @_liroujohn<br>
 
 
