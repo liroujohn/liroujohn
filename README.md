@@ -1,12 +1,38 @@
-# 💫 About Me:
-- 🔭 I’m currently working on TitaniumFix<br>
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACT, C#<br>
-- 📫 How to reach me: @_liroujohn<br>
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liroujohn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-machado-231880205/) 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liroujohn&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liroujohn&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,nodejs,java,spring,docker,angular,github,aws,materialui,linux,postman,bootstrap,vercel,vite,eclipse,mongodb,figma,postgres,gradle,grafana,heroku,hibernate,idea,jenkins,kafka,kotlin,kubernetes,md,maven,mysql,nextjs,npm,prometheus,py,pycharm,react,stackoverflow,sublime,ubuntu,vercel,vscode,windows,discord,linkedin,instagram" />
+</a>
+  <br />
+
+  </div>
+
+
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=guilherme-twiniti&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+
+  
+ 
+
+
+
+
+
+
+ 
+  
+  
+
+  
 
